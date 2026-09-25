@@ -4,7 +4,7 @@ import Layout from './components/layout/Layout'
 import Home from './components/pages/Home'
 import Dashboard from './components/pages/Dashboard'
 import Projects from './components/pages/Projects/Projects'
-import Team from './components/pages/Team'
+import Team from './components/pages/team/Team'
 import Settings from './components/pages/Settings'
 import Messages from './components/pages/message/Messages'
 

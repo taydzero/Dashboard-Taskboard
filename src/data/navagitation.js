@@ -1,5 +1,5 @@
 import {
-  // LayoutDashboard,
+  LayoutDashboard,
   FolderKanban,
   Users,
   MessageCircle,
@@ -7,12 +7,12 @@ import {
 } from "lucide-react";
 
 export const navigation = [
-  // {
-  //   id: 1,
-  //   to: "/dashboard",
-  //   label: "Dashboard",
-  //   icon: LayoutDashboard,
-  // },
+  {
+    id: 1,
+    to: "/",
+    label: "Home",
+    icon: LayoutDashboard,
+  },
   {
     id: 2,
     to: "/projects",
